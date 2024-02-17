@@ -1,3 +1,10 @@
 theme: jekyll-theme-minimal
 title: Welcome to the JFdelaFuente's homepage!
-description: Feel fre to bookmark this to keep an eye on my project updates.
+description: Some basic examples of client interfaces to a computer vision API.
+
+remote_theme: daviddarnes/alembic@main
+plugins:
+- jekyll-remote-theme
+
+author:
+  name: JFdelaFuente
