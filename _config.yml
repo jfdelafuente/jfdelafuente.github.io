@@ -3,6 +3,3 @@ plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Welcome to the JFdelaFuente's homepage!
 description: Some basic examples of client interfaces to a computer vision API.
-
-author:
-  name: JFdelaFuente
